@@ -7,7 +7,7 @@ categories:
 tags:
   - VScode
 ---
-## 安装VScode 111
+## 安装VScode 
 首先前往VScode官网下载安装包：[https://code.visualstudio.com/]
 打开安装包后根据指引安装，点击`下一步`
 ![QQ20251002-102531.png](http://tuchuang.overgeek.online/picgo/QQ20251002-102531.png)

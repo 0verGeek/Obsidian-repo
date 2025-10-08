@@ -94,8 +94,7 @@
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,7 +213,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8fec3885962c94b",
+  "active": "e131d0e80435514c",
   "lastOpenFiles": [
     "软件推荐/电子专业软件推荐——系统&基础篇.md",
     "软件推荐/电子专业软件推荐——专业软件篇.md",

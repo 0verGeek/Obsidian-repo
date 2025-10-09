@@ -21,3 +21,5 @@ tags:
 等待清洁完毕ing······
 
 ---
+
+![image.png](http://tuchuang.overgeek.online/picgo/20251008131405.png)

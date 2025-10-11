@@ -29,6 +29,7 @@ tags:
 ![](http://tuchuang.overgeek.online/ob-251008-200717.jpeg)
 
 ---
+<<<<<<< HEAD
 ## 伊利神机
 快递有点慢，我已经没法等了，直接开始刷系统!！
 
@@ -43,3 +44,7 @@ tags:
 回到 Omarchy 的官网 [Omarchy](https://omarchy.org/) ，下载 iso 系统文件
 然后是安装 rufus: [Rufus - Create bootable USB drives the easy way](https://rufus.ie/en/) , 一个轻松制作系统盘的软件，它只有 Windows 版本，Linux 上可以用Ventoy: [Download . Ventoy](https://www.ventoy.net/en/download.html)。
 
+=======
+
+![image.png](http://tuchuang.overgeek.online/picgo/20251008131405.png)
+>>>>>>> origin/master

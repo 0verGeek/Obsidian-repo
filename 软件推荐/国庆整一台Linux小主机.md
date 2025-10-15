@@ -44,4 +44,3 @@ tags:
 回到 Omarchy 的官网 [Omarchy](https://omarchy.org/) ，下载 iso 系统文件
 然后是安装 rufus: [Rufus - Create bootable USB drives the easy way](https://rufus.ie/en/) , 一个轻松制作系统盘的软件，它只有 Windows 版本，Linux 上可以用Ventoy: [Download . Ventoy](https://www.ventoy.net/en/download.html)。
 这里是移动端的测试
-this is a test from linux
